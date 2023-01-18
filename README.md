@@ -1,6 +1,9 @@
 # election-analysis
 
+### This repository is not the one originally created in the lesson module, but was created for the sole purpose of having a much cleaner repository to display my work for this module challenge.
+
 ## Overview of Election Audit
+
 
 #### The purpose of this election audit was to use newly acquired Python skills to read a CSV file full of votes from an election and display + analyze them in a palatable format. This is done through both printing the results to the command line, as well as a text file. It essentially took what was a messy list of ballots and displayed the total votes cast, the voter turnout from each county (as well as which county had the largest turnout), and the winning candidate along with her vote count and percentage of the vote received. In summary, it quickly and efficiently analyzed a data set and turned it into readable data.
 
